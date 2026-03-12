@@ -1,0 +1,23 @@
+packages/mcp/src/tools/tasks/create-task/create-task.ts
+  3840dd88ffbe353f 5,13-14,23-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "f7bca12d2250471ea4459ac1e730ab253bdfbdee",
+  "prompts": {
+    "3840dd88ffbe353f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4dd708b-9fc7-4b50-a168-9db1d06103d3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 3,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
