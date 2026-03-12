@@ -1,0 +1,23 @@
+packages/mcp/src/tools/devices/start-agent-session/start-agent-session.ts
+  3840dd88ffbe353f 218,223,225-234,246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "a761fcc264565080a591b0bf1961abc8433c11f7",
+  "prompts": {
+    "3840dd88ffbe353f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4dd708b-9fc7-4b50-a168-9db1d06103d3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>",
+      "messages": [],
+      "total_additions": 13,
+      "total_deletions": 5,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    }
+  }
+}
