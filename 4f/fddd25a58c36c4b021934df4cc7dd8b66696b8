@@ -1,0 +1,19 @@
+apps/desktop/src/renderer/routes/_authenticated/components/AgentHooks/hooks/useCommandWatcher/useCommandWatcher.ts
+  s_48746d2d05f949::t_a08acb3c814251 55,57-59,61-65,67-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "4ffddd25a58c36c4b021934df4cc7dd8b66696b8",
+  "prompts": {},
+  "sessions": {
+    "s_48746d2d05f949": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4548d9cb-17ff-4953-8b40-0e59280af840",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
