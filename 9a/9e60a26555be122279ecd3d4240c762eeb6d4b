@@ -1,0 +1,45 @@
+packages/shared/src/agent-launch.test.ts
+  s_48746d2d05f949::t_5b01a842c3bc08 24-43
+apps/desktop/src/renderer/routes/_authenticated/components/AgentHooks/hooks/useCommandWatcher/tools/start-agent-session.ts
+  s_48746d2d05f949::t_dfe0ddd65a53fa 122-163
+  s_48746d2d05f949::t_1e733fdaf26b5e 1,3,8-11
+  s_48746d2d05f949::t_8722a6b6d255a6 64-67
+packages/shared/src/agent-launch.ts
+  s_48746d2d05f949::t_3d8248f5560ea8 54-57
+packages/mcp/src/tools/devices/start-agent-session/shared.ts
+  s_48746d2d05f949::t_7d50e80efee476 5
+  s_48746d2d05f949::t_d7614cdd0140f6 216-217,224
+  s_48746d2d05f949::t_27a36b78e4eaee 164,171-174,178-179
+apps/desktop/src/renderer/routes/_authenticated/components/AgentHooks/hooks/useCommandWatcher/tools/types.ts
+  s_48746d2d05f949::t_1f71f4de3e55e0 67-71
+  s_48746d2d05f949::t_22a5e85a0bc5d8 2-3
+apps/desktop/src/renderer/routes/_authenticated/components/AgentHooks/hooks/useCommandWatcher/useCommandWatcher.ts
+  s_48746d2d05f949::t_4837e2f6620543 56-60
+  s_48746d2d05f949::t_2664e8b5e9a447 1
+  s_48746d2d05f949::t_c1952d617345bc 61,101,115
+apps/desktop/src/renderer/routes/_authenticated/components/AgentHooks/hooks/useCommandWatcher/tools/start-agent-session.test.ts
+  s_48746d2d05f949::t_014df9cd68495d 1-6,8-46,53-180,182-253
+  s_48746d2d05f949::t_594c21c93c46aa 47-52
+  s_48746d2d05f949::t_d96109f41857ad 7
+  s_48746d2d05f949::t_fbdc076b2f8dbb 181
+  s_48746d2d05f949::t_ed692428e99afa 254-257
+packages/mcp/src/tools/devices/start-agent-session/start-agent-session.test.ts
+  s_48746d2d05f949::t_10369962c02092 112-117,127,130-134
+  s_48746d2d05f949::t_cfbf8c39c2c6f1 135-136,162,174-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "9a9e60a26555be122279ecd3d4240c762eeb6d4b",
+  "prompts": {},
+  "sessions": {
+    "s_48746d2d05f949": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4548d9cb-17ff-4953-8b40-0e59280af840",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
